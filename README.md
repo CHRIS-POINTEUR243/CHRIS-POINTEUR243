@@ -1,7 +1,7 @@
 ## Welcome to Chris-Pointeur <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"/>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" border-radius="5px">
- ✨Hi guys, I am Chrinovic Tshibambe, a Computer Engineering student at the Federal University of Brazil (UFRGS). 🚀 Passionate about technology and innovation, always seeking new challenges and opportunities to learn and grow💻.
+✨Hi guys, I am Chrinovic Tshibambe, a Computer Engineering student at the Federal University of Brazil (UFRGS). 🚀 Passionate about technology and innovation💻.
 
 ## 📊 GitHub Stats
 <img width="%" height="198" src="https://github-readme-stats.vercel.app/api?username=CHRIS-POINTEUR243&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="CHRIS-POINTEUR243 github stats" />
